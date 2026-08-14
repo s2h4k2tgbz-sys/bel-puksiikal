@@ -1,4 +1,4 @@
-// CONFIGURACIÓN: escribe solo números, con código de país. Ejemplo México: 5219981234567
+
 const whatsappNumber = 529983204854"";
 
 const menuButton = document.querySelector(".menu-toggle");
