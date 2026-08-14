@@ -1,5 +1,5 @@
 
-const whatsappNumber = 529983204854"";
+const whatsappNumber = "529983204854";
 
 const menuButton = document.querySelector(".menu-toggle");
 const menu = document.querySelector(".menu");
