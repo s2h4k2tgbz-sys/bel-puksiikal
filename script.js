@@ -17,7 +17,7 @@ document.querySelector("#year").textContent = new Date().getFullYear();
 document.querySelector("#interest-form")?.addEventListener("submit", (event) => {
   event.preventDefault();
   if (!whatsappNumber) {
-    alert("Añade el número de WhatsApp de Bel Puksiikal en el archivo script.js antes de publicar.");
+  
     return;
   }
   const data = new FormData(event.currentTarget);
