@@ -122,3 +122,6 @@ footer .wrap{display:grid;text-align:center}
 .hero h1 em,h2 em,.hero-subtitle,.hero-note{color:var(--clay)}
 .hero-note{color:var(--clay)}
 @media(max-width:760px){.hero-logo{width:min(450px,88vw)}.hero-copy{padding-top:14vh}}
+
+/* Fotografía de Kusuma: el encuadre desplaza la imagen para mantenerla visible. */
+.portrait.kusuma-photo{background-image:linear-gradient(180deg,rgba(61,27,10,.08),rgba(61,27,10,.5)),url("3cdf065d-16eb-4aea-abc5-e334a60f9405.jpg");background-position:63% center}
