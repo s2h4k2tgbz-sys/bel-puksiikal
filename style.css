@@ -62,7 +62,7 @@ h3{font:600 28px/1.05 var(--serif);margin:25px 0 12px}
 .includes-inner{display:grid;grid-template-columns:1fr 2fr;gap:60px}
 .include-grid{display:grid;grid-template-columns:1fr 1fr;gap:0 35px}
 .include-grid p{margin:0;padding:18px 0;border-bottom:1px solid rgba(255,255,255,.3);font:500 23px var(--serif)}
-.quote{background:var(--clay);color:#fff;text-align:center}
+.quote{background:#741223;color:#fff;text-align:center}
 .quote span{font:100px/.5 var(--serif);color:var(--gold)}
 blockquote{font:italic clamp(30px,4vw,55px)/1.06 var(--serif);max-width:1000px;margin:25px auto 0}
 .guide{display:grid;grid-template-columns:.88fr 1.12fr;gap:12vw;align-items:center}
